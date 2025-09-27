@@ -1,6 +1,6 @@
 # Taskify - macOS To-Do App
 
-A beautiful, animated macOS to-do app built with SwiftUI and Core Data, featuring categories, progress tracking, and Lottie animations.
+A beautiful, animated macOS to-do app.
 
 ## Features
 
@@ -22,10 +22,6 @@ A beautiful, animated macOS to-do app built with SwiftUI and Core Data, featurin
 - Persistent theme selection
 - Beautiful visual design
 
-🎭 **Lottie Animations**
-- Completion animations for finished tasks
-- Smooth checkmark animations
-- Engaging user feedback
 
 💾 **Local Persistence**
 - Core Data integration
