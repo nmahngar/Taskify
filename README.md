@@ -1,6 +1,8 @@
 # Taskify - macOS To-Do App
 
 A beautiful, animated macOS to-do app.
+get shit done faster ig
+
 ***!!MACOS ONLY, WEB SUPPORT COMING NEVER!!***
 
 ## Features
