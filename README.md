@@ -1,6 +1,7 @@
 # Taskify - macOS To-Do App
 
 A beautiful, animated macOS to-do app.
+***!!MACOS ONLY, WEB SUPPORT COMING NEVER!!***
 
 ## Features
 
@@ -64,6 +65,7 @@ Taskify/
 2. Fill in task details (title, description, category, priority)
 3. Optionally set a due date
 4. Click "Add" to save
+5. ***Tasks automatically save***
 
 ### Managing Tasks
 - **Complete**: Click the circle next to any task
@@ -75,6 +77,7 @@ Taskify/
 1. Click the "Settings" button in the sidebar
 2. Choose from various background themes
 3. Your selection will be saved automatically
+4. ***Settings menu has a known bug where the UI gets hella weird***
 
 ### Viewing Progress
 - Overall progress is shown in the sidebar
@@ -92,6 +95,7 @@ Taskify/
 - **Education** (Indigo) - Learning and study
 - **Travel** (Cyan) - Travel planning
 - **Other** (Gray) - Miscellaneous tasks
+- ***Will add custom categories later on***
 
 ### Priority Levels
 - **Low** (Green) - Not urgent
@@ -121,7 +125,7 @@ The app includes sample data to help you get started. You can:
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Feel free to NOT submit issues and enhancement requests!
 
 ## License
 
