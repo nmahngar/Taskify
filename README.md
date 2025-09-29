@@ -35,10 +35,11 @@ get shit done faster ig
 ## Requirements
 
 - macOS 14.0 or later
-- Xcode 15.0 or later
+- Xcode 15.0 or later (for compiling yourself)
 - Swift 5.9 or later
 
 ## Installation
+(for compiling yourself)
 
 1. Clone or download this repository
 2. Open `Taskify.xcodeproj` in Xcode
